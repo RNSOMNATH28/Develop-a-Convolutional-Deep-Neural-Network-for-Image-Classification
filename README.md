@@ -47,9 +47,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name:
+### Name: R N SOMNATH
 
-### Register Number:
+### Register Number:212224240158
 
 ```python
 import torch
